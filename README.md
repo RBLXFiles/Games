@@ -20,3 +20,9 @@ Please note the following restrictions:
 
 ## Catalog
 A catalog of the games is available in the file named <a href="https://github.com/RBLXFiles/Games/blob/main/catalog.md">catalog</a>.
+
+## Credits
+
+This repository is maintained by **RBLXFiles** with contributions from the Roblox preservation community.
+
+Our goal is to preserve Roblox history for developers, researchers, and enthusiasts.
